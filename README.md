@@ -3,5 +3,7 @@ mi segundo repositorio
 
 autor: javier almeida 
 
-# documentacion 1 (Dev1)
+# documentacion 2 (Dev2)
+documentacion del desarrollador 2
+
 
